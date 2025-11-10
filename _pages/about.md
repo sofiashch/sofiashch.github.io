@@ -15,7 +15,7 @@ Welcome! I am a Ph.D. candidate in the Department of Economics at the University
 
 I am the lead researcher for the [University of Chicago's Dating with Data Study](https://datingwithdata.com/), where we study how people use dating apps.
 
-You can contact me at [sofiashchukina@uchicago.edu](mailto:soiashchukina@uchicago.edu), or using any of the links in the sidebar.
+You can contact me at [sofiashchukina@uchicago.edu](mailto:sofiashchukina@uchicago.edu), or using any of the links in the sidebar.
 
 Previously, I worked as a Research Assistant at UC Berkeley and as a Business Analyst at McKinsey & Company. I graduated _summa cum laude_ from Harvard College with a degree in Economics and a minor in Statistics.
 
