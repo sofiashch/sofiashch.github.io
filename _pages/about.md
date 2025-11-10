@@ -23,7 +23,6 @@ Previously, I worked as a Research Assistant at UC Berkeley and as a Business An
 <br>
 
 <h2 id="research">Research</h2>
-======
 **The University of Chicago's Dating With Data Study** <br>
 Dating with Data is a large-scale study of dating app use. Find out more [here](https://datingwithdata.com/).
 
