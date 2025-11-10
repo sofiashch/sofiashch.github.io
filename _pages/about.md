@@ -44,7 +44,7 @@ Teaching
 ======
 I have been a teaching assistant for the following classes at the University of Chicago:
 * Accelerated Economics (MBA, Instructor: Jack Mountjoy). Fall 2024, Fall 2023
-* Economics of Gender (Undergraduate, Instructor: Alessandra Gonz´alez). Spring 2024
+* Economics of Gender (Undergraduate, Instructor: Alessandra Gonzalez). Spring 2024
 * Empirical Analysis III (Ph.D., Instructor: James Heckman). Spring 2023
 * Applied Microeconometrics (Undergraduate, Instructor: Juanna Joensen). Winter 2023
 * The Elements of Economic Analysis I (Undergraduate, Instructor: Antonis Tsiflis). Fall 2022
