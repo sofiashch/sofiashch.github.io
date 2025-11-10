@@ -27,8 +27,8 @@ author:
   name             : #"Sofia Shchukina"
   pronouns         : # example: "she/her"  
   bio              : "Economics Ph.D. Candidate at the University of Chicago"
-  employer         : "University of Chicago"
-  uri              : https://economics.uchicago.edu/directory/sofia-shchukina
+  employer         : "[University of Chicago](https://economics.uchicago.edu/directory/sofia-shchukina)"
+  uri              : #https://economics.uchicago.edu/directory/sofia-shchukina
   email            : "sofiashchukina@uchicago.edu" 
 
   # Academic websites
