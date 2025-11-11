@@ -19,7 +19,7 @@ I am also a member of the [Normal Lab](https://thenormallab.uchicago.edu/), and 
 
 You can contact me at [sofiashchukina@uchicago.edu](mailto:sofiashchukina@uchicago.edu), or using any of the links in the sidebar.
 
-Previously, I worked as a Research Assistant at UC Berkeley and as a Business Analyst at McKinsey & Company. I graduated _summa cum laude_ from Harvard College with a degree in Economics and a minor in Statistics.
+Previously, I worked as a Research Assistant at UC Berkeley and as a Business Analyst at McKinsey & Company's San Francisco office. I was also a Ph.D. Summer Fellow at NPR's Planet Money podcast. I graduated _summa cum laude_ from Harvard College with a degree in Economics and a minor in Statistics.
 
 <br>
 <br>
