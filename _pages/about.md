@@ -11,9 +11,11 @@ redirect_from:
 
 Sofia Shchukina
 ======
-Welcome! I am a Ph.D. candidate in the Department of Economics at the University of Chicago. I use experimental and applied microeconomic methods to study how contemporary technologies and sociocultural trends have affected human behavior in areas including dating, education, and purchasing decisions.
+Welcome! I am a Ph.D. candidate in the Department of Economics at the University of Chicago. I use experimental and applied microeconomic methods to study how contemporary technologies and sociocultural trends have affected human behavior in areas such as dating, education, and purchasing decisions.
 
 I am the lead researcher for the [University of Chicago's Dating with Data Study](https://datingwithdata.com/), where we study how people use dating apps.
+
+I am also a member of the [Normal Lab](https://thenormallab.uchicago.edu/), and I am advised by [Professor Leonardo Bursztyn](https://home.uchicago.edu/bursztyn/).
 
 You can contact me at [sofiashchukina@uchicago.edu](mailto:sofiashchukina@uchicago.edu), or using any of the links in the sidebar.
 
